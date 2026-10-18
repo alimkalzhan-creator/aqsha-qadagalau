@@ -1,0 +1,8 @@
+<resources>
+    <color name="ic_launcher_background">#6DBE86</color>
+
+    <style name="Theme.Aqsha" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#F2FAF4</item>
+        <item name="android:statusBarColor">#6DBE86</item>
+    </style>
+</resources>

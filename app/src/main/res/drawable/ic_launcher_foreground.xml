@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- white donut ring -->
+    <path
+        android:pathData="M54,31 A23,23 0 1,1 53.99,31"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="9"
+        android:fillColor="#00000000" />
+    <!-- accent segment (like the expense share on the chart) -->
+    <path
+        android:pathData="M54,31 A23,23 0 0,1 77,54"
+        android:strokeColor="#F4C987"
+        android:strokeWidth="9"
+        android:fillColor="#00000000" />
+    <!-- tenge sign -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46.5,44 h15 v3 h-15 z M46.5,49.2 h15 v3 h-15 z M52.5,52.2 h3 v12 h-3 z" />
+</vector>
